@@ -5,3 +5,5 @@ This change for the commit 2.
 This change for the subcommit 1.
 
 This change for the subcommit 2.
+
+This change for the commit 3.
